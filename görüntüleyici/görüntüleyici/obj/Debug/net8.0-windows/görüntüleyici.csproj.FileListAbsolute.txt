@@ -1,0 +1,17 @@
+C:\Users\ECENUR\Desktop\iö_ülkü_recep\görüntüleyici\görüntüleyici\bin\Debug\net8.0-windows\görüntüleyici.exe
+C:\Users\ECENUR\Desktop\iö_ülkü_recep\görüntüleyici\görüntüleyici\bin\Debug\net8.0-windows\görüntüleyici.deps.json
+C:\Users\ECENUR\Desktop\iö_ülkü_recep\görüntüleyici\görüntüleyici\bin\Debug\net8.0-windows\görüntüleyici.runtimeconfig.json
+C:\Users\ECENUR\Desktop\iö_ülkü_recep\görüntüleyici\görüntüleyici\bin\Debug\net8.0-windows\görüntüleyici.dll
+C:\Users\ECENUR\Desktop\iö_ülkü_recep\görüntüleyici\görüntüleyici\bin\Debug\net8.0-windows\görüntüleyici.pdb
+C:\Users\ECENUR\Desktop\iö_ülkü_recep\görüntüleyici\görüntüleyici\obj\Debug\net8.0-windows\görüntüleyici.Form1.resources
+C:\Users\ECENUR\Desktop\iö_ülkü_recep\görüntüleyici\görüntüleyici\obj\Debug\net8.0-windows\görüntüleyici.Properties.Resources.resources
+C:\Users\ECENUR\Desktop\iö_ülkü_recep\görüntüleyici\görüntüleyici\obj\Debug\net8.0-windows\görüntüleyici.csproj.GenerateResource.cache
+C:\Users\ECENUR\Desktop\iö_ülkü_recep\görüntüleyici\görüntüleyici\obj\Debug\net8.0-windows\görüntüleyici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECENUR\Desktop\iö_ülkü_recep\görüntüleyici\görüntüleyici\obj\Debug\net8.0-windows\görüntüleyici.AssemblyInfoInputs.cache
+C:\Users\ECENUR\Desktop\iö_ülkü_recep\görüntüleyici\görüntüleyici\obj\Debug\net8.0-windows\görüntüleyici.AssemblyInfo.cs
+C:\Users\ECENUR\Desktop\iö_ülkü_recep\görüntüleyici\görüntüleyici\obj\Debug\net8.0-windows\görüntüleyici.csproj.CoreCompileInputs.cache
+C:\Users\ECENUR\Desktop\iö_ülkü_recep\görüntüleyici\görüntüleyici\obj\Debug\net8.0-windows\görüntüleyici.dll
+C:\Users\ECENUR\Desktop\iö_ülkü_recep\görüntüleyici\görüntüleyici\obj\Debug\net8.0-windows\refint\görüntüleyici.dll
+C:\Users\ECENUR\Desktop\iö_ülkü_recep\görüntüleyici\görüntüleyici\obj\Debug\net8.0-windows\görüntüleyici.pdb
+C:\Users\ECENUR\Desktop\iö_ülkü_recep\görüntüleyici\görüntüleyici\obj\Debug\net8.0-windows\görüntüleyici.genruntimeconfig.cache
+C:\Users\ECENUR\Desktop\iö_ülkü_recep\görüntüleyici\görüntüleyici\obj\Debug\net8.0-windows\ref\görüntüleyici.dll
